@@ -3,54 +3,54 @@
       "recipe_id": 1,
       "recipe_name": "Spicy Basil Chicken Stir-Fry",
       "short_description": "A delicious and easy-to-make Thai-inspired stir-fry dish.",
-      "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaves", "400 g mushrooms"],
+      "ingredients": ["550 g chicken", "120 ml soy sauce", "1 liter vegetable broth",  "200 g basil leaves","50 gm hm", "40gm calori"],
       "preparing_time": "30 min",
-      "calories": "320 calories",
-      "recipe_image": "https://ibb.co/R6wxz0j"
+      "calories": "320calories",
+      "recipe_image": "https://i.ibb.co/RSRJTFL/2.png"
     },
     {
       "recipe_id": 2,
       "recipe_name": "Mushroom Risotto",
       "short_description": "Creamy and comforting Italian-style risotto with mushrooms.",
-      "ingredients": ["300 g Arborio rice", "1 liter vegetable broth", "200 g mushrooms", "100 ml white wine"],
+      "ingredients": ["300 g Arborio rice", "1 liter vegetable broth", "200 g mushrooms", "600gm fat", "100 ml white wine", "1 liter vegetable broth"],
       "preparing_time": "45 min",
-      "calories": "380 calories",
-      "recipe_image": "https://ibb.co/R6wxz0j"
+      "calories": "380calories",
+      "recipe_image": "https://i.ibb.co/12BNKcf/istockphoto-1457433817-612x612.jpg"
     },
     {
       "recipe_id": 3,
       "recipe_name": "Classic Margherita Pizza",
       "short_description": "Simple yet flavorful pizza topped with tomato sauce, mozzarella, and basil.",
-      "ingredients": ["300 g pizza dough", "200 g mozzarella cheese", "200 g tomato sauce", "Handful of fresh basil leaves"],
+      "ingredients": ["300 g pizza dough", "400 gm vagitable sos", "200 g mozzarella cheese", "200 g tomato sauce", "120 ml soy sauce","Handful of fresh basil leaves"],
       "preparing_time": "20 min",
-      "calories": "250 calories",
-      "recipe_image": "https://ibb.co/R6wxz0j"
+      "calories": "250calories",
+      "recipe_image": "https://i.ibb.co/myWL6qN/1.png"
     },
     {
       "recipe_id": 4,
       "recipe_name": "Vegetable Curry",
       "short_description": "Hearty and aromatic curry loaded with fresh vegetables and spices.",
-      "ingredients": ["400 g mixed vegetables (carrots, potatoes, bell peppers, etc.)", "300 ml coconut milk", "200 g curry paste", "Handful of cilantro for garnish"],
+      "ingredients": ["400 g mixed vegetables (carrots, potatoes, bell peppers, etc.)", "300 ml coconut milk", "200 g curry paste", "Handful of cilantro for garnish","10 ml soy sauce", "120 ml soy sauce"],
       "preparing_time": "40 min",
-      "calories": "280 calories",
-      "recipe_image": "https://ibb.co/R6wxz0j"
+      "calories": "280calories",
+      "recipe_image": "https://i.ibb.co/tHTmHxb/pexels-photo-958545.jpg"
     },
     {
       "recipe_id": 5,
       "recipe_name": "Banana Bread",
       "short_description": "Moist and delicious homemade banana bread perfect for breakfast or snack.",
-      "ingredients": ["3 ripe bananas", "200 g all-purpose flour", "100 g sugar", "100 g butter", "1 tsp baking powder"],
+      "ingredients": ["3 ripe bananas", "400 gm vagitable sos","200 g all-purpose flour", "100 g sugar", "100 g butter", "1 tsp baking powder"],
       "preparing_time": "60 min",
-      "calories": "200 calories",
-      "recipe_image": "https://ibb.co/R6wxz0j"
+      "calories": "200calories",
+      "recipe_image": "https://i.ibb.co/2YF5GN4/pexels-photo-376464.jpg"
     },
     {
       "recipe_id": 6,
       "recipe_name": "Greek Salad",
       "short_description": "Fresh and vibrant salad with tomatoes, cucumbers, olives, and feta cheese.",
-      "ingredients": ["2 tomatoes", "1 cucumber", "100 g Kalamata olives", "100 g feta cheese", "Handful of lettuce leaves"],
+      "ingredients": ["2 tomatoes", "1 cucumber", "400 gm vagitable sos","100 g Kalamata olives", "100 g feta cheese", "Handful of lettuce leaves"],
       "preparing_time": "15 min",
-      "calories": "180 calories",
-      "recipe_image": "https://ibb.co/R6wxz0j"
+      "calories": "180calories",
+      "recipe_image": "https://i.ibb.co/j5cFrfP/istockphoto-1457889029-612x612.jpg"
     }
   ]
