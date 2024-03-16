@@ -2,13 +2,14 @@
 import vactor from '../../assets/img/Vector (1).png'
 import times from '../../assets/img/Frame.png'
 
-const SingleData = ({ data }) => {
+const SingleData = ({ data, showButton }) => {
+
     const { recipe_name, recipe_image, short_description, ingredients, preparing_time, calories } = data;
     return (
         <div>
             <div className='border-2 rounded-2xl p-5'>
                 <img src={recipe_image} className='w-full rounded-2xl h-full md:h-[180px] object-cover' alt="" />
-                <h2 className='font-bold text-xl py-4'>{recipe_name.slice(0 ,20)}</h2>
+                <h2 className='font-bold text-xl py-4'>{recipe_name.slice(0, 20)}</h2>
                 <p className='py-2
                             '>{short_description}</p>
                 <hr />
@@ -20,7 +21,7 @@ const SingleData = ({ data }) => {
                     <li>{ingredients[3]}</li>
                     <li>{ingredients[4]}</li>
                     <li>{ingredients[5]}</li>
-                   
+
                 </ul>
                 <hr />
                 <div className='flex gap-5 py-3'>
@@ -33,8 +34,11 @@ const SingleData = ({ data }) => {
                         <p>{calories}</p>
                     </div>
                 </div>
-                <button className="btn btn-active px-6 py-2 btn-accent my-5 hover:bg-lime-400 rounded-full border border-black bg-[#0BE58A]">Want to Cook</button>
-
+                <button onClick={() => showButton(data)} className="btn btn-active px-6 py-2 btn-accent my-5 hover:bg-lime-400 rounded-full border border-black bg-[#0BE58A]">Want to Cook</button>
+               
+            </div>
+            <div>
+                
             </div>
         </div>
     );
